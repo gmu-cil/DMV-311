@@ -1,0 +1,51 @@
+,service_type,p-value,direction,inc/dec
+0,Parking Meter Repair,2.2176130116360266e-11,-2181.5714285714284,decreased
+1,Parking Enforcement,1.776575566714677e-08,-2056.4857142857145,decreased
+2,Emergency No-Parking Verification,1.8804522052632119e-06,-1404.5142857142857,decreased
+3,Residential Parking Permit Violation,5.8415629538008775e-09,-882.7857142857142,decreased
+4,Pothole,0.01635735927136854,-843.4,decreased
+5,Roadway Signs,0.026571256978096234,-246.61428571428576,decreased
+6,Sanitation Enforcement,0.0015572051373897574,-237.47142857142853,decreased
+7,Out of State Parking Violation (ROSA),0.00011222622676268471,-199.87142857142857,decreased
+8,Roadway Repair,0.0014475682818742798,-94.02857142857141,decreased
+9,FEMS - Community Events,6.265157920899626e-07,-58.87142857142857,decreased
+10,Roadway Striping / Markings,0.000618195854136078,-58.8,decreased
+11,Traffic Signal Issue,0.0411268170130996,-47.542857142857144,decreased
+12,Abandoned Bicycle,0.00010396440397150162,-46.542857142857144,decreased
+13,Traffic Safety Investigation,0.0011719967750167802,-45.32857142857142,decreased
+14,FEMS - Smoke Alarm Application,0.00015714803203103407,-33.22857142857143,decreased
+15,Bicycle Services,0.00028697826645345215,-20.514285714285716,decreased
+16,How Is My Driving - Complaint,0.0024201516681975825,-20.3,decreased
+17,DMV - Vehicle Insurance Lapse,0.0028582556809899984,-12.857142857142858,decreased
+18,Bus/Rail Issues,0.006102696011358475,-12.728571428571428,decreased
+19,DMV - Processing Center Manager,0.012860151804142525,-10.3,decreased
+20,DMV - Adjudication Supervisor,0.022151031368467935,-4.171428571428571,decreased
+21,DOEE – Foam and Straw Ban,0.014906013187110859,-3.5,decreased
+22,DMV - Refunds - Tickets,0.035847137806949016,-2.7142857142857144,decreased
+23,FEMS - Fire Safety Inspection,0.004319609140665911,-2.4428571428571426,decreased
+24,How Is My Driving - Compliment,0.014541540531772658,-2.4,decreased
+25,DOEE - Foam Ban / Food Service Ware Requirements,0.04738410114224893,-1.6571428571428573,decreased
+26,Child Safety Seat Program,0.04009291264774772,-0.5714285714285714,decreased
+27,DMV - Hearings,0.0023604179117423358,5.414285714285714,increased
+28,DMV - Drivers License/ID Reinstatement,0.0017518032474774948,5.6,increased
+29,DMV - Driver and Vehicle Services Refund,0.0014263072431953013,6.357142857142857,increased
+30,Wire Down/Power Outage,0.02313075012891905,6.742857142857144,increased
+31,DMV - Online Processing Issues,0.03887398322245305,9.414285714285715,increased
+32,DMV - Vehicle Inspection Issues,0.03144283598997175,13.242857142857142,increased
+33,Recycling Cart - Repair,0.00543564541302365,13.757142857142853,increased
+34,DMV - Copy of Ticket,0.0034632707785321837,14.557142857142857,increased
+35,Supercan - Repair,0.02651014185682847,19.271428571428572,increased
+36,Rat Replacement Containers,0.0030392307689228095,21.95714285714286,increased
+37,Trash Cart Repair,0.008889928999891848,25.92857142857143,increased
+38,DC Facilities Landscaping and Grounds Maintenance(DGS),0.006389509698333251,35.457142857142856,increased
+39,"DMV - Forms, Applications, and Manuals Request",0.00022585259593579406,50.24285714285714,increased
+40,Recycling Cart Delivery,0.006716507216940481,60.628571428571405,increased
+41,Illegal Poster,0.0028395897238955026,63.714285714285715,increased
+42,Public Space Litter Can-Collection,0.0270436437445862,71.37142857142858,increased
+43,DMV - Vehicle Registration Issues,9.34851509026009e-05,74.44285714285715,increased
+44,Coronavirus (COVID-19) Mass Gathering Tracking,0.01384295122923566,115.2,increased
+45,Supercan - Delivery,0.0002833196240052339,128.45714285714288,increased
+46,Yard Waste - Missed,9.053536579887788e-05,212.22857142857146,increased
+47,Rodent Inspection and Treatment,0.007173721851071455,230.94285714285706,increased
+48,DC Government Information,0.0021956600528167053,659.0714285714286,increased
+49,Bulk Collection,0.0008065756213922722,1275.557142857143,increased
