@@ -1,0 +1,40 @@
+,service_type,p-value,direction,inc/dec
+0,Pothole Repair,0.0020418482124523922,-259.8,decreased
+1,CountyClick 311 Emails,0.00712470474876491,-238.8,decreased
+2,Vehicle - Abandoned (No Plates),0.013447580588671156,-26.285714285714292,decreased
+3,Court Case - Code Enforcement,0.0001586456167672594,-25.071428571428573,decreased
+4,Food Facility Complaint,0.00010237186643704783,-21.542857142857144,decreased
+5,Traffic Signs - Repair/Replace,0.005236804582309798,-19.885714285714293,decreased
+6,Vehicle Audit - Incoming Referral,0.009907055058588972,-19.371428571428574,decreased
+7,PSC Customer Service,0.010284797926865465,-19.314285714285717,decreased
+8,Road Resurfacing,0.011480100336397292,-15.12857142857143,decreased
+9,Cable Commission Complaint,0.003146115099746783,-15.028571428571427,decreased
+10,Citation - Code Enforcement,0.0006730525840101246,-14.257142857142858,decreased
+11,Traffic Signal Maintenance,0.017248048158741845,-13.142857142857146,decreased
+12,Fire/EMS General Inquiries,0.0009019739146283327,-12.07142857142857,decreased
+13,Boat Trailer/Camping Trailer/Equipment Trailer on Roadway,0.035785636810647434,-7.042857142857141,decreased
+14,Vehicle - Remove Vehicle Requested by Property Owner,0.014233416415981375,-6.285714285714286,decreased
+15,Concrete Work (In House),0.004127219101214166,-5.685714285714287,decreased
+16,Traffic Hazard/Safety,0.007121627666515764,-4.7142857142857135,decreased
+17,Food Poisoning (Possible),0.0039333551052517105,-4.142857142857143,decreased
+18,The Bus,0.0006029561102452694,-4.071428571428571,decreased
+19,Clean Lot/Board Structure,0.0033351203045319197,-4.071428571428571,decreased
+20,Air/Land/Water Contamination Complaint,0.032193743881965976,-3.671428571428571,decreased
+21,Pavement Markings - Existing,0.001261068027665425,-3.428571428571429,decreased
+22,Traffic Signal - Long Term Maintenance,0.030649698428027415,-3.028571428571429,decreased
+23,CountyClick 311 Changes,0.004919252410501668,-2.3857142857142857,decreased
+24,Foam Free PGC Ban,0.037489904231731215,-1.0714285714285714,decreased
+25,Tax - General Inquiry,0.012849171783968816,-1.0571428571428572,decreased
+26,CountyClick 311 Site Enhancement Suggestion,0.0011131537893958661,-0.8571428571428571,decreased
+27,Discrimination Complaint,0.022991419939617563,-0.657142857142857,decreased
+28,Board Structure,0.0022158178881171125,-0.6428571428571429,decreased
+29,Medical Assistance,0.01347335888201409,-0.6428571428571429,decreased
+30,Request a County Agency Representative,0.012986865174166692,-0.5,decreased
+31,Call-a-Bus Program Information,0.027531588210939227,-0.42857142857142855,decreased
+32,Food Supplement Program (Food Stamps),0.0004224390756282359,1.9,increased
+33,Animal - Injured,0.01365828764277578,2.8285714285714287,increased
+34,Coronavirus/COVID-19,0.013219096648325298,3.5,increased
+35,Traffic Control Device - New,0.030232599303215136,9.485714285714286,increased
+36,Rental License Inspection (Single Family),4.354944525381691e-05,39.15714285714286,increased
+37,PSC Audio Recording Request,0.015572016647262026,126.92857142857144,increased
+38,Violations - COVID-19,0.000524554434491335,155.9,increased

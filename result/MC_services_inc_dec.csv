@@ -1,0 +1,832 @@
+,service_type,p-value,direction,inc/dec
+0,22 Gallon Bin Delivery (Bottles/Cans/Jars),1.6020423911273758e-06,-1802.2857142857142,decreased
+1,Ride On Real Time Arrival Information,3.3751909619539e-05,-1209.6571428571428,decreased
+2,22 Gallon Bin Pick-up ((Bottles/Cans/Jars),5.189003038709967e-06,-626.5714285714286,decreased
+3,Schedule Residential Inspections,3.31612109441388e-07,-525.7571428571429,decreased
+4,Cart Repair (Paper Recycling),1.5309934853986396e-06,-437.92857142857144,decreased
+5,Unacceptable for Collection (For Use by SWS Field Staff Only),0.00014802540094245025,-433.14285714285717,decreased
+6,Name and Telephone Number of DPS Residential Building Inspector,2.1398897998925217e-08,-360.9571428571429,decreased
+7,Field Check Required for Division of Solid Waste Services,0.00011637250740293914,-336.92857142857144,decreased
+8,Montgomery County Employee Directory Assistance,7.3340824509275585e-09,-311.9428571428571,decreased
+9,Ride On Trip Planning,1.2344408633130642e-08,-298.0857142857143,decreased
+10,Same Day (For Use by SWS Staff Only),0.00011483545588996478,-269.2857142857143,decreased
+11,1401,2.427527821774005e-07,-263.22857142857146,decreased
+12,Balance of Property Tax Bill,0.01970032682960073,-233.6428571428571,decreased
+13,Pothole Repair,0.0034879169031007975,-182.0,decreased
+14,Ride On Complaint - Service,8.87603903066391e-11,-174.7285714285714,decreased
+15,Income Support Application Status: Food Stamps TCA Medicaid TDAP Rockville Office,0.008884670142183741,-163.14285714285714,decreased
+16,Ride On Lost and Found,3.358457493991087e-09,-160.71428571428572,decreased
+17,Schedule DPS Commercial Building Construction Related Permitting Inspections,3.4054336530634437e-06,-145.27142857142854,decreased
+18,65 Gallon Cart Delivery (Paper Recycling),3.749654509971395e-06,-143.21428571428572,decreased
+19,Ride On Complaint - Driver Behavior,9.808133163682757e-08,-136.17142857142858,decreased
+20,Housing Complaints,0.025519763262752286,-134.97142857142853,decreased
+21,35 Gallon Cart Delivery (Paper Recycling),2.571074272118598e-06,-131.07142857142858,decreased
+22,Department of Permitting Services Location and Hours of Operation,0.00011697108678297553,-129.2714285714286,decreased
+23,Property Tax Credit for Elderly Individuals and for Military Retirees,0.014397186069352018,-126.88571428571427,decreased
+24,STD Testing and Treatment and HIV Testing Only,2.531377703548244e-06,-115.05714285714286,decreased
+25,Income Support Application Status: Food Stamps TCA Medicaid TDAP Germantown Office,0.010087022107116261,-114.57142857142857,decreased
+26,Police Department Information,0.006710781060433009,-104.92857142857144,decreased
+27,Missed County Provided Recycling or Trash Pick-up,4.4168958460458584e-05,-104.92857142857143,decreased
+28,Redeem Property From Tax Lien,2.382326001366185e-05,-102.71428571428571,decreased
+29,Status of Tree Prune or Removal,4.1069107338713245e-06,-95.0,decreased
+30,Assigned Residential Inspector,5.432493371715875e-06,-88.78571428571429,decreased
+31,Income Support Application Status: Food Stamps TCA Medicaid TDAP Silver Spring Office,0.008536089498807579,-87.71428571428571,decreased
+32,"Maryland Department of Transportation, State Highway Administration (SHA)",1.9032347891230823e-07,-81.57142857142858,decreased
+33,Fire Code Compliance Inspection Request,0.0004482785797342119,-74.1,decreased
+34,"Renew or Apply for Fire Code Compliance, Operational, or General Fire Permits",0.013864042027728314,-71.74285714285713,decreased
+35,"Apply for or Obtain Eligibility Criteria and Status of Application, for Office of Home Energy Programs",3.935687786465345e-08,-63.92857142857143,decreased
+36,Cancel Solid Waste Service Request,2.6815996674381694e-05,-63.714285714285715,decreased
+37,Replace Tree that was Removed from Right of Way,0.0009141482244655945,-61.857142857142854,decreased
+38,Walk-in Landlord-Tenant Complaints,0.0005508451074255185,-59.28571428571429,decreased
+39,Department of Health and Human Services Office Locations Directions and Office Hours,0.02221061468647421,-56.57142857142857,decreased
+40,Road Repair,6.907227176635042e-05,-56.35714285714286,decreased
+41,"Report an Untagged, Abandoned, Dysfunctional, or Inoperable Vehicle on the Public Street, Commercial, or Private Parking Lot",4.1024027925255146e-08,-53.64285714285714,decreased
+42,Missed Appointment Income Supports or Phone Interview,0.00837465785588964,-53.0,decreased
+43,Name and Telephone Number of DPS Commercial Building Inspector,2.2871088450419788e-05,-52.942857142857136,decreased
+44,Department of Finance Divisions and Contact Information,5.632182618953851e-06,-50.04285714285714,decreased
+45,Personal Property Tax Billing,0.0035556345561133093,-49.0,decreased
+46,Free Income Tax Assistance Tax Year 2018,0.02264676433292506,-48.92857142857143,decreased
+47,Name of Recruiter for a Specific Department,1.668819045172069e-08,-46.42857142857143,decreased
+48,Aging and Disability Resource Unit (ADRU) of  the Department of Health and Human Services (HHS),0.0002872676939454352,-45.67142857142858,decreased
+49,1301 Request for Back Office Response,3.279566618412186e-06,-41.92857142857143,decreased
+50,Traffic Signal Timing and Other Issues,1.097808319636937e-08,-40.45714285714286,decreased
+51,MC311 General Information,0.0007903773944122802,-38.400000000000006,decreased
+52,Employee - Verify Health Insurance Coverage,0.00011980983692931283,-38.2,decreased
+53,Obtain a Birth Certificate,0.005939945505904532,-37.5,decreased
+54,Montgomery County Public Schools - How to Contact,6.359239494673198e-12,-36.52857142857143,decreased
+55,Washington Suburban Sanitary Commission (WSSC),1.416995232991371e-05,-35.95714285714286,decreased
+56,Report Streetlight Outage or Malfunctioning,0.0004898732534609264,-35.87142857142857,decreased
+57,Checking Status of a Housing Code Enforcement Complaint or Inspection,0.00015711709584049062,-34.78571428571429,decreased
+58,6 Gallon Baby Blue Delivery (Multi-Family),3.707634938882679e-06,-33.857142857142854,decreased
+59,County Recycling/Refuse Collection Day,0.00387426254786832,-33.599999999999994,decreased
+60,12900 Request for Back Office Response,2.3093561164883327e-05,-32.55714285714286,decreased
+61,"Birth certificate, Death Certificates, Divorce Decree, Marriage Verification",0.006682072877128469,-31.214285714285715,decreased
+62,Income Support Application Request: Food Stamps Medical Assistance Temporary Cash Assistance or Temporary Disability Assistance Program and Offices Fax Numbers,0.008708893876970856,-30.5,decreased
+63,Metro Contact Information,0.010198637113292346,-30.200000000000003,decreased
+64,Ride On Insufficient Information,7.477536004058278e-05,-30.114285714285714,decreased
+65,Literature Items - Commercial/Business and Multi-family Recycling,0.0011446909871329284,-29.92857142857143,decreased
+66,Reporting Animal Complaints to the Animal Services Division,0.03457025236528004,-28.12857142857143,decreased
+67,Plant a Tree,0.0009122408674382148,-27.0,decreased
+68,Division of Solid Waste Services Events,0.00022415481067589104,-25.84285714285714,decreased
+69,Residential Inspection Status,0.00030914019057367784,-25.4,decreased
+70,Replace Damaged or Missing Street Sign,7.348997682988724e-05,-24.32857142857143,decreased
+71,Ride On Paper Schedules,3.469807935564326e-05,-24.057142857142853,decreased
+72,Filing a Claim Against the County,0.0008754195678921311,-24.028571428571432,decreased
+73,Montgomery County Treasury Division Location and Hours of Operation,0.004003074777282399,-24.0,decreased
+74,Billing Questions Related to Fire Code Compliance,0.012119190589531162,-23.928571428571427,decreased
+75,Active Montgomery Assistance,3.898948415423496e-07,-23.571428571428573,decreased
+76,Employment Verification Request (Retiree and Former Employee),1.705255473582135e-06,-23.4,decreased
+77,Alert Montgomery - Unsubscribe From All Alert Montgomery Notifications,0.01699722166518085,-23.15714285714286,decreased
+78,Contact the Montgomery County Fire Marshal's Office or Fire Code Compliance Section,0.00036215637245570347,-23.07142857142857,decreased
+79,SmarTrip Card Problems,1.2944774300431656e-10,-22.857142857142858,decreased
+80,7 Gallon Desk Side Bin Delivery (Commercial Businesses),2.568406358577947e-06,-22.785714285714285,decreased
+81,"Ride On Real Time Message ""Scheduled Time""",0.007499650791931424,-22.371428571428574,decreased
+82,Determining Whether a Rental Property is Licensed or the Status of a Rental License Application,7.802605515950514e-07,-22.285714285714285,decreased
+83,Cable Complaints,0.000941888195828904,-21.785714285714292,decreased
+84,Applying for Community Use Space,8.856811330449822e-08,-21.7,decreased
+85,CSC Solution Not Found,0.01894384709853801,-21.64285714285714,decreased
+86,Information Printed on the Tax Bill,0.007820475015127074,-21.2,decreased
+87,"TB Clinic Location and Hours, How to Make an Appointment",1.581262540983769e-08,-20.82857142857143,decreased
+88,Montgomery County Public Schools,0.00024292208698288462,-20.742857142857147,decreased
+89,Land Records,0.0165844940877863,-20.471428571428575,decreased
+90,Employee or Retiree CIGNA Dental Coverage,0.00010997760989644531,-19.67142857142857,decreased
+91,Retiree - Verify Health Insurance Coverage,0.02305081274806726,-19.657142857142855,decreased
+92,Contact Specific Community Use of Public Facilities Scheduler or Staff Member,2.2032874022533936e-09,-19.285714285714285,decreased
+93,Cancel a Scheduled Residential Inspection,1.4478338162913993e-05,-17.67142857142857,decreased
+94,Report a Parking Complaint to the Montgomery County Police,0.00018099860224960504,-17.614285714285714,decreased
+95,City of Rockville,0.02352834262791345,-17.542857142857137,decreased
+96,Housing Opportunities Commission (HOC) Office Locations,0.0001492168791916837,-17.514285714285716,decreased
+97,Application Process for an Electrical Permit,4.6768634213033236e-05,-17.442857142857147,decreased
+98,Traffic Signal Outage,0.0004355929065082325,-17.285714285714285,decreased
+99,Grass Damage from Snow Event,0.027617605007175035,-16.8,decreased
+100,Apply for Medicaid or Medical Assistance Rockville,0.01071327185718333,-16.785714285714285,decreased
+101,Apply to Food Stamps Program  Rockville Office,0.009638688237977599,-16.428571428571427,decreased
+102,8818 Request for Back Office Response,3.36067096683266e-06,-16.414285714285715,decreased
+103,"Location, Hours and Parking for the Office of Human Resources",5.435832976586136e-08,-16.4,decreased
+104,Request to Speak to a Commission on Common Ownership Communities (CCOC) Staff Member,0.0035629271119173695,-15.971428571428568,decreased
+105,Change Line - Rockville,0.009428878940278813,-15.285714285714286,decreased
+106,Clinics for Low Income Adults,0.0017318409765160981,-15.214285714285714,decreased
+107,DHCA Housing Code Enforcement Office Location,2.6218725245988265e-07,-14.957142857142857,decreased
+108,"Department of Housing and Community Affairs, Office of Landlord-Tenant Affairs - Location and Business Hours",8.098602772724495e-06,-14.942857142857143,decreased
+109,Electronic Benefits Transfer (EBT) Card  Rockville,0.008630653641663225,-14.785714285714286,decreased
+110,Office Location and Business Hours for DHCA Licensing,0.00013145199261945225,-14.571428571428573,decreased
+111,AccessMCG (iRecruitment) - County Employment Application Process,1.2699432489436717e-06,-14.557142857142857,decreased
+112,Office of Consumer Protection Location and Contact Information,0.0012012869697197368,-14.542857142857144,decreased
+113,Ride On Fare Cost,1.923645406569342e-06,-14.5,decreased
+114,AccessMCG (iRecruitment) - Errors,1.4751704849813201e-05,-14.4,decreased
+115,Reporting Pothole on a State Route or Beltway,0.004498644466264645,-13.814285714285715,decreased
+116,Standards for Class 3 Accessory Apartments,1.5376720196873865e-05,-13.642857142857142,decreased
+117,Change Line - Germantown,0.01014301705888964,-13.142857142857142,decreased
+118,Meeting & Event Attendance Requests With the County Executive,8.678623012602088e-06,-12.9,decreased
+119,Senior Dental Program,2.452338858810459e-07,-12.828571428571427,decreased
+120,Apply to Food Stamps Program Silver Spring Office,0.009702510146133938,-12.714285714285714,decreased
+121,Report a Maintenance Issue at a Ride-On Bus Stop,4.434817569959936e-06,-12.685714285714285,decreased
+122,Immunization Clinic Schedule for Children,5.163089718313787e-05,-12.642857142857142,decreased
+123,Food Stamps and Cash Assistance Availability in Account Rockville,0.011141821557068169,-12.642857142857142,decreased
+124,Reduced Cost Dental Care for Low Income Adults and Children,3.7734225264390695e-08,-12.242857142857142,decreased
+125,Schedule a Tour of the Recycling Center,5.248434190339056e-06,-12.22857142857143,decreased
+126,Electronic Benefits Transfer (EBT) Card  Germantown,0.0101205413738571,-12.071428571428571,decreased
+127,Business Recycling Questions and Complaints,0.0002256573067261329,-11.8,decreased
+128,Reconsideration Recertification or Redetermination Question - Rockville,0.00936218778382117,-11.714285714285714,decreased
+129,Traffic Study,0.016209741800863244,-11.514285714285716,decreased
+130,Roadway Resurfacing or Repaving,0.005602378270597467,-11.5,decreased
+131,Adult Dental Care,4.772224442976698e-06,-11.485714285714284,decreased
+132,Process to License a Rental Unit,0.000466895278048484,-11.285714285714285,decreased
+133,Amount of Allowable Landlord Rent Increase,0.0007968883675818749,-11.185714285714285,decreased
+134,Plumbing Permits - Wasington Suburban Sanitary Commission,5.260912454921901e-05,-11.071428571428573,decreased
+135,Status or Duplicate Transit Service Request,0.00012173082264566241,-11.042857142857143,decreased
+136,Temporary Suspension of Parking Enforcement in a Permit Parking District,2.7764009508892064e-07,-10.885714285714286,decreased
+137,Retiree - EyeMed 2019 Discount Vision Plan,0.0030230919886733345,-10.857142857142858,decreased
+138,Police Department Most Frequently Requested Phone Numbers,0.0003557933746153224,-10.771428571428572,decreased
+139,Request New Sign to be Installed on Street,0.002173949417519943,-10.771428571428572,decreased
+140,How to Apply for Care for Kids,0.0026711919967013285,-10.628571428571426,decreased
+141,How to Obtain a Moderately Priced Dwelling Unit  (MPDU) Rental Apartment,0.01023202181575443,-10.628571428571426,decreased
+142,Pay a Fine for a Speed Camera or a Red Light Camera Ticket,6.17684272175553e-05,-10.614285714285716,decreased
+143,Jury Service,0.002161176251768044,-10.514285714285716,decreased
+144,Ride On Compliment,3.8752408370610425e-08,-10.5,decreased
+145,Food Stamps and Cash Assistance Availability in Account Germantown,0.009779690275990821,-10.142857142857142,decreased
+146,"Ride On Complaint - Other, Miscellaneous",3.258905510945729e-05,-10.085714285714285,decreased
+147,Montgomery County Circuit Court,0.01860264629129349,-9.971428571428568,decreased
+148,Ride On Fare Youth Cruiser Pass on SmarTrip Card,0.0020076281178040153,-9.942857142857143,decreased
+149,Landlord Tenant Handbook,0.01813421859442715,-9.92857142857143,decreased
+150,"Employee - ID Card for Medical, Dental, Prescription or Vision Plan",0.00014676872675419532,-9.814285714285713,decreased
+151,AccessMCG (iRecruitment) - Check Status of and Ratings on Employment Application,1.9201667032778514e-05,-9.785714285714286,decreased
+152,Apply for Medicaid or Medical Assistance Silver Spring,0.008681708868058961,-9.785714285714286,decreased
+153,Change Line - Silver Spring,0.012656975165074648,-9.714285714285714,decreased
+154,"Termination of case: food stamps, TCA, Medicaid, TDAP  - Rockville",0.013069396139249628,-9.714285714285714,decreased
+155,Crosswalk Signal Repair,4.240971004683386e-05,-9.314285714285715,decreased
+156,Apply to Food Stamps Program Germantown Office,0.011684291955887416,-9.214285714285714,decreased
+157,Request for Home Evaluation or Free Smoke Alarms,0.00012814729781794078,-9.142857142857142,decreased
+158,Reconsideration Recertification or Redetermination Question - Germantown,0.011537373532576814,-9.0,decreased
+159,IT or Telecom Helpdesk,0.0006024263394087562,-8.914285714285715,decreased
+160,"Commercial Building Permits: New Construction, Additions, Alterations",0.0036507336191703666,-8.871428571428574,decreased
+161,HIV Services and Information,5.763993688257094e-06,-8.814285714285713,decreased
+162,Retiree - Prescription Insurance Question,0.002536694008017311,-8.814285714285713,decreased
+163,Apply for Medicaid or Medical Assistance Germantown,0.00901636098757468,-8.785714285714286,decreased
+164,How to Apply to the Moderately Priced Dwelling Unit (MPDU) Purchase Program,0.028467200484130855,-8.785714285714286,decreased
+165,Employee - Dental Insurance Question,0.005320035919403744,-8.728571428571428,decreased
+166,Parking Ticket Contact,0.004080632035382313,-8.5,decreased
+167,Immunization for Out of the Country Travel,7.331771606505782e-06,-8.457142857142857,decreased
+168,"Cancel a Scheduled DPS Commercial Building, Electrical or Mechanical Construction Related Permit Inspection",1.8875548047019514e-05,-8.457142857142857,decreased
+169,Ride On Fare Seniors/People/Persons with Disabilities Riding Free in Montgomery County,8.063882668651425e-07,-8.371428571428572,decreased
+170,Sales Representative Requests Walk Through or Pick Up,0.04895026765464,-8.371428571428572,decreased
+171,Specified Low Income Medicare Beneficiary or Qualified Medicare Beneficiary SLMB or QMB,0.013615881197312054,-8.357142857142858,decreased
+172,Traffic Hazard,3.4392660237363247e-07,-8.32857142857143,decreased
+173,Ride On Fare - Obtaining a Senior SmarTrip Card,8.650671231596193e-05,-8.257142857142858,decreased
+174,Library Meeting Rooms - When to Submit Applications for Room Reservations,1.4695748777878272e-07,-8.242857142857142,decreased
+175,Maryland's New Smoke Alarm Law,6.418657690771635e-05,-8.157142857142858,decreased
+176,Appeal Parking Ticket,0.006791764529382854,-8.157142857142858,decreased
+177,Death Certificates,2.0779310567144444e-07,-8.142857142857142,decreased
+178,Report a Broken Parking Meter,4.446247906663846e-05,-8.12857142857143,decreased
+179,"Employee, Retiree or Participating Agency - Group Insurance Coverage Denial",0.03266917487990384,-8.014285714285712,decreased
+180,Grass Damage from Non-Snow Events,0.012309984170458161,-8.0,decreased
+181,Sanitation Concerns in Restaurant or Other Food Service Facility,0.010603578400227196,-7.914285714285715,decreased
+182,"Fee Schedule for: Residential Building, Demolition, Fire Alarm, Fire Sprinkler, Fence Permits, Use and Occupancy Certificate",0.017536216973155456,-7.814285714285717,decreased
+183,Ride On Flex,0.010874889459541192,-7.728571428571429,decreased
+184,Reporting a Stray Animal,0.0003127665478376061,-7.685714285714285,decreased
+185,Eviction Notice,1.0544184458380327e-06,-7.671428571428571,decreased
+186,Adult Vaccines and Immunizations the Department of Health and Human Services,3.368524960355561e-05,-7.628571428571429,decreased
+187,Medicaid Transportation,0.006110494825312807,-7.5285714285714285,decreased
+188,Schedule DPS Fire Protection/Fire Alarm System Inspection,0.006213004353614429,-7.471428571428573,decreased
+189,Montgomery County Crisis Center,0.017131495791945887,-7.4571428571428555,decreased
+190,MTA Commuter Bus,4.473224503122345e-08,-7.414285714285714,decreased
+191,Montgomery County Community Recreation Center Locations and Hours of Operation,3.728321073893749e-05,-7.414285714285714,decreased
+192,Social Security Administration Medicare Health Insurance,0.04080631776415689,-7.385714285714286,decreased
+193,"Report Child Abuse, Neglect, Sex Abuse",0.001164189123302233,-7.357142857142858,decreased
+194,Applying for the Child Care Subsidy Programs,0.001425090677864835,-7.242857142857142,decreased
+195,Address of the Local District Police Station,0.000928199605863713,-7.014285714285713,decreased
+196,Public Information Office Referrals,0.0035137827746395964,-7.0,decreased
+197,City of Takoma Park,0.003617150075531986,-6.857142857142858,decreased
+198,"Report the Abuse, Neglect, or Financial Exploitation of a Vulnerable Adult or Disabled Person to Adult Protective Services",0.0025783747285792534,-6.828571428571429,decreased
+199,Income Support Caseworker Complaint Rockville Office,0.010856609268101806,-6.785714285714286,decreased
+200,Pre-Construction Meeting for Commercial Building Construction,2.2956651033385132e-05,-6.685714285714287,decreased
+201,Locations of County Parking Lots and Garages,0.0002470818786231128,-6.685714285714287,decreased
+202,Ride On Kids Ride Free Program,0.001813517830370232,-6.542857142857144,decreased
+203,SIEBEL TRAINING REQUEST,0.0012538161453761014,-6.5,decreased
+204,Request Apartment Inspection,0.0004350331977491224,-6.485714285714286,decreased
+205,Hospitals in the Washington Metropolitan Area,0.0013276868048208235,-6.4714285714285715,decreased
+206,"Termination of case: food stamp, TCA, Medicaid, TDAP  - Germantown",0.013643720604489982,-6.357142857142857,decreased
+207,Employee  or Retiree - Group Insurance Paycheck Deductions Incorrect,0.04760872343850817,-6.314285714285713,decreased
+208,Location and Hours of Operations for Montgomery County Recreation Main Office,0.0034293390830728568,-6.2857142857142865,decreased
+209,Short Term Residential Rental law,0.0015156527614575907,-6.228571428571429,decreased
+210,Frequency of Assessment to Real Property in Montgomery County,0.003214842672937785,-6.2,decreased
+211,Bethesda Parking Sales Store,0.0013782458105021077,-6.1571428571428575,decreased
+212,Request For New Ride-On Bus Stop or Shelter,3.3859382767075423e-06,-6.042857142857143,decreased
+213,Call-n-Ride Eligibility and Program Information,8.02690115663753e-06,-5.9714285714285715,decreased
+214,Request for Deed Copy,0.017765815625092697,-5.914285714285715,decreased
+215,Electronic Benefits Transfer (EBT) Card  Silver Spring,0.015299895003526246,-5.857142857142857,decreased
+216,Unidentified Montgomery County Government Property Tax Refund,0.00795253078743753,-5.7857142857142865,decreased
+217,Recycling Bin Contamination Enforcement,0.0005932123843714419,-5.785714285714286,decreased
+218,AccessMCG (iRecruitment) - Applying for Multiple County Positions,8.18797027017049e-05,-5.757142857142858,decreased
+219,Online Search for an Operational or Fire Code Compliance Permit,0.0006781140078292256,-5.685714285714285,decreased
+220,Unattended Fire Hydrant Discharging Water,0.027925139517453866,-5.671428571428571,decreased
+221,"Department of Permitting Services Fee Schedule for: Commercial Building, Demolition, Retaining Walls, Commercial Use and Occupancy",0.007809590542525292,-5.585714285714285,decreased
+222,Food Stamps and Cash Assistance Availability in Account Silver Spring,0.017383762255015863,-5.571428571428571,decreased
+223,Reconsideration Recertification or Redetermination Question - Silver Spring,0.008385608442780117,-5.5,decreased
+224,Child Care Subsidy Programs: Working Parents Assistance Program - Location,0.00017601376508631614,-5.485714285714286,decreased
+225,Tree Montgomery - Free Trees on Private Property,0.013507594407198061,-5.457142857142857,decreased
+226,Property Damage/Property Missing,0.02757734442945715,-5.442857142857143,decreased
+227,"Maternity Partnership Program, Case Management and Education - Silver Spring",0.012717440141545163,-5.428571428571429,decreased
+228,Permit Requirement for Dumpster or Pod in Driveway,0.013550353506632215,-5.357142857142857,decreased
+229,Car Seat Program,8.444947902427117e-05,-5.314285714285713,decreased
+230,Tows,0.009836615580149295,-5.300000000000001,decreased
+231,Ride On Refund for Cash Lost in Bus Fare Box,2.8494677209171934e-05,-5.285714285714286,decreased
+232,"Ride On Holiday Schedule:  Veteran's Day, Martin Luther King, Jr. Day and Presidents' Day",0.022332032009024224,-5.285714285714286,decreased
+233,Office of Human Rights Location,0.0015956312889722172,-5.271428571428571,decreased
+234,Exposure to Someone with Tuberculosis (TB),0.0018958964249846026,-5.242857142857142,decreased
+235,Address and Phone Number of Local Fire Station,0.02612330514491248,-5.2142857142857135,decreased
+236,MMR Hepatitis B Varicella Vaccine or Titer,4.036754381960076e-07,-5.2,decreased
+237,"Silver Spring Health Center - Location, Hours, Offerings",0.03221983709538795,-5.185714285714287,decreased
+238,Sheriff's Office Hours of Operation,0.009559624180045294,-5.171428571428571,decreased
+239,Residential Demolition Permit,0.00015499155397102375,-5.1571428571428575,decreased
+240,Resdential Building Codes,0.00016975671728254832,-5.142857142857143,decreased
+241,Taxi Complaint,0.0007954796113878781,-5.114285714285714,decreased
+242,Speed Camera Program,2.1917796938172416e-05,-5.014285714285713,decreased
+243,Employee - Eye Med Vision Insurance Question,0.0026236409248817207,-4.885714285714286,decreased
+244,Request for Immediate Smoke Alarm Installation,0.0021229647358144564,-4.857142857142858,decreased
+245,Freedom of Information Act (FOIA) or Maryland Public Information Act (MPIA) Request.,2.9231279938184848e-05,-4.785714285714286,decreased
+246,Food Borne Illness,0.00039374491915615404,-4.785714285714286,decreased
+247,Retirement Investments,2.0880671658214748e-06,-4.771428571428571,decreased
+248,Credit Checks,0.0009031708475149152,-4.771428571428571,decreased
+249,Residential Special Inspections Program,0.001544995459530154,-4.771428571428571,decreased
+250,Licensee Wants to Return Product,0.031575817987909226,-4.742857142857144,decreased
+251,Legal Issues for Seniors,0.0005940484827570664,-4.671428571428571,decreased
+252,HOC Home Ownership Program,0.02000951080430616,-4.557142857142858,decreased
+253,Parking Meter - Handicap Cost,6.991254840719865e-06,-4.5285714285714285,decreased
+254,Alcohol Return Policy - Non-County Store,0.019324538545058435,-4.457142857142856,decreased
+255,Receipt of a Rental License Certificate,0.0006584857133953992,-4.4,decreased
+256,Digital Permit Parking Program,0.0006072388466276504,-4.314285714285715,decreased
+257,Updating Information Provided on Original Rental License Application and Printing Rental License,0.0014204269599288161,-4.3,decreased
+258,Common Ownership Communities (CCOC) Office Location,9.835760642017582e-07,-4.271428571428571,decreased
+259,Contacting Staff Member at the Office of Home Energy Program or Rental Assistance Program,0.0036187976944742142,-4.271428571428571,decreased
+260,Real Property Tax Calculation Method,4.8897016272273496e-05,-4.228571428571429,decreased
+261,Sign Permit,0.012183500911882536,-4.228571428571429,decreased
+262,Definition of Accessory Apartment,9.63370454103866e-06,-4.214285714285714,decreased
+263,Montgomery County Recreation Programs for Seniors,0.002538506441799344,-4.171428571428571,decreased
+264,City of Gaithersburg Permits,0.009120093635609125,-4.1571428571428575,decreased
+265,Employee or Retiree EyeMed Vision Coverage,0.019697989504545554,-4.071428571428571,decreased
+266,Change of Address or Phone Number,0.004811322081853027,-4.057142857142857,decreased
+267,Status of Health Care Eligibility Units (formerly MAGI and SEU Units) Application  All Three Office Locations,0.01802412239144851,-4.0,decreased
+268,Active Montgomery System,6.218666155164043e-05,-3.971428571428571,decreased
+269,Request to Re-paint Road Striping or Lane Markings,0.016858038226444595,-3.942857142857142,decreased
+270,License Fees for Residential Rental Facilities,0.013346516838961937,-3.9285714285714284,decreased
+271,DHCA Housing Code Enforcement Staff Complaint,0.007121970047830817,-3.9142857142857137,decreased
+272,DOT Highway Staff Complaint,0.025911685445274592,-3.9000000000000004,decreased
+273,Ride On Glenstone Museum Service,0.0013524041896221424,-3.9,decreased
+274,ACCESS to Behavioral Health and Crisis Services,0.04483226535897083,-3.885714285714286,decreased
+275,Reporting County Vehicle Driving Complaints,0.00010669719394634241,-3.871428571428571,decreased
+276,Calculation of Property Tax Credit for Elderly Individuals and Military Retirees,0.04458598546089408,-3.871428571428571,decreased
+277,Tree Selection to Replant in the ROW,0.0196974740597403,-3.8,decreased
+278,Right of Way or Sediment Control Permit Bond Release,0.03957120656508672,-3.7857142857142865,decreased
+279,Special Food Permit License for Temporary Event,0.0009374937041153208,-3.7714285714285714,decreased
+280,Call-n-Ride Application or Recertification Application,0.006519258266083405,-3.757142857142858,decreased
+281,Report Trash at a Ride-On Bus Stop,0.02698712693148921,-3.685714285714286,decreased
+282,Department of Permitting Services Staff Complaint,0.0020606979963358764,-3.6571428571428566,decreased
+283,Location and Hours of Operation for the Animal Shelter,0.002162275663031529,-3.6428571428571423,decreased
+284,"Office of the County Attorney - Location, Hours of Operation, and Contact Information",0.0011161271384183187,-3.528571428571429,decreased
+285,MetroAccess Reduced Fare Program,0.003459936699328545,-3.5142857142857142,decreased
+286,Carbon Monoxide Detector General Safety Information,0.0002989480239401885,-3.5,decreased
+287,Emergency Management Service (EMS) Transportation Insurance Reimbursement Billing Concerns,0.00407481314056442,-3.5,decreased
+288,Application Process for Sign Permits,0.01152521256069411,-3.5,decreased
+289,"Termination of case: food stamps, TCA, Medicaid, TDAP - Silver Spring",0.018450426360624963,-3.5,decreased
+290,Contacting Sediment Control Inspector to Schedule an Inspection,0.041043112093187506,-3.4571428571428573,decreased
+291,Time to Return Security Deposit,0.004545438510951828,-3.457142857142857,decreased
+292,Income Support Inquiries for District Office 154,0.011479065094067126,-3.4285714285714284,decreased
+293,Commercial Violation/Complaint Investigation,0.026876301793912098,-3.328571428571429,decreased
+294,Ride On Fare Media Accepted,6.98597020502026e-05,-3.3142857142857145,decreased
+295,Fire Prevention and Code Compliance Violation/Complaint Investigation,0.01916988098402629,-3.242857142857143,decreased
+296,Income Supports Caseworker Complaint Germantown Office,0.01252730245799835,-3.2142857142857144,decreased
+297,Children's Dental Services - Healthy Smiles,0.010384909596709907,-3.2,decreased
+298,7300 Calhoun Place Request for Back Office Response,6.774044357553012e-06,-3.1714285714285717,decreased
+299,Description of the Moderately Priced Dwelling Unit (MPDU) Program,0.011365109410093074,-3.128571428571429,decreased
+300,Process to Reserve a Public Facility,1.187449978517718e-05,-3.0714285714285716,decreased
+301,Maryland Renter's Tax Credit Information and Application,0.004315075999169697,-3.057142857142857,decreased
+302,Electrical Permit Requirement for Commercial Low Voltage Work,0.012759758046523944,-3.057142857142857,decreased
+303,Adding a Family Member to the Property Deed Title,1.9883171524371936e-06,-3.0428571428571427,decreased
+304,Ride On Fare Media Request for Information,0.004261185498225631,-3.0428571428571427,decreased
+305,Payment of Bag Tax Collections,0.037882979865657,-2.9857142857142858,decreased
+306,Lost Money in Parking Meter,0.000563859152072917,-2.9714285714285715,decreased
+307,Employee - Request to Discuss Retirement Benefits,0.031407596481492286,-2.9571428571428573,decreased
+308,License Requirement For Room Rental Inside Household,0.008883847039482468,-2.957142857142857,decreased
+309,County Employee ID Cards,0.01657181644640611,-2.942857142857143,decreased
+310,Abused Persons Program (APP),0.0021838788006316506,-2.928571428571429,decreased
+311,Scheduling an Appointment With a Community Use of Public Facilities (CUPF) Scheduler,0.0001463058003539088,-2.9142857142857146,decreased
+312,Report a KBA Problem,0.03294670397300473,-2.9000000000000004,decreased
+313,Transit Requests or General Inquiries,0.03739639189550689,-2.8428571428571434,decreased
+314,"Mechanical Permit Requirement for Replacement of Natural Gas Fired Furnaces, Propane and Natural Gas Appliances",0.008958888418453511,-2.8285714285714287,decreased
+315,Employee - Insurance Requirements to Add Dependents,0.04620192192247398,-2.8285714285714287,decreased
+316,Required Inspections and Scheduling for Residential Mechanical Equipment Installation,0.01615063165783778,-2.8,decreased
+317,Fax numbers for the Office of Human Resources,0.006305836869028409,-2.7714285714285714,decreased
+318,Maintenance in County Parking Garages,7.422621340375951e-05,-2.7142857142857144,decreased
+319,Apply for Temporary Cash Assistance (TCA) Program - Germantown,0.0184303831244694,-2.7142857142857144,decreased
+320,Medicaid Card Lost or Stolen - Rockville,0.021598395449459303,-2.7142857142857144,decreased
+321,"Water Pollution in Streams, Rivers, or Other Water Bodies",0.044323108049514406,-2.7,decreased
+322,AccessMCG - CSR Reset Password or Unlock Account,0.00044839621390993446,-2.6857142857142855,decreased
+323,Fire Alarms Permits - New Construction,0.034712239305050956,-2.6857142857142855,decreased
+324,Definition of Front Foot Benefit Charge (FFBC),0.0160075563556835,-2.6714285714285713,decreased
+325,"Speed Camera, Red Light Camera Fines",0.02170182622069953,-2.671428571428571,decreased
+326,State Highway Administration (SHA) Park and Ride Lots,0.00018704122898319803,-2.6428571428571432,decreased
+327,Divorce Decree,0.041415702741940445,-2.628571428571429,decreased
+328,"Maternity Partnership Program, Case Management and Education - Germantown",0.01553972223670961,-2.5714285714285716,decreased
+329,List of Required Inspections,0.003962922398246393,-2.557142857142857,decreased
+330,Locating the Zoning Classification of Property,0.03072328536621131,-2.5428571428571436,decreased
+331,Fleet Management Services Information,0.009732427213070098,-2.5142857142857142,decreased
+332,Names of Beneficiaries,0.00013201128187673316,-2.5,decreased
+333,Apply for Temporary Cash Assistance (TCA) Program - Silver Spring,0.0237163112461607,-2.5,decreased
+334,Ride On Monthly Pass on SmarTrip Card,0.0020925308596438786,-2.4857142857142858,decreased
+335,TB Symptoms Requiring an Immediate Referral,0.007638553108116273,-2.4714285714285715,decreased
+336,Eviction Process after Writ Issued,0.0035538273891090036,-2.4571428571428573,decreased
+337,ADA Complaints or Grievances,7.907637131563323e-05,-2.442857142857143,decreased
+338,Apply for Temporary Cash Assistance (TCA) Program - Rockville,0.026472091522981404,-2.4285714285714284,decreased
+339,Ride On Request for New Bus Service to Areas Where It Does Not Exist,2.4082926194851202e-05,-2.4142857142857146,decreased
+340,Montgomery County Public Schools (MCPS) Employee Inquiries for Community Use of Public Facilities (CUPF),2.7598205362745366e-05,-2.4,decreased
+341,Forms and Applications Related to Montgomery County Fire Code Compliance,0.015953619733739377,-2.4,decreased
+342,Pre-Construction Meeting for Well and Septic Systems Requiring a Well and Septic Permit,0.0013825411232015307,-2.3857142857142857,decreased
+343,Montgomery College,0.02820438835701014,-2.371428571428571,decreased
+344,Request New Streetlights to be Installed,0.0290143988889642,-2.371428571428571,decreased
+345,Unit Inspection Date/Time for a HOC Inspection,0.0008295856488176563,-2.3142857142857145,decreased
+346,Children Home Alone,0.0011530881819424982,-2.3142857142857145,decreased
+347,Dockless Bikeshare Demonstration Program,0.009764380094607778,-2.3142857142857145,decreased
+348,Maryland Department of Health and Mental Hygiene,0.01498634079909689,-2.2857142857142856,decreased
+349,Testing a Well,0.04381118270676844,-2.2857142857142856,decreased
+350,"Retiree - ID Card for Medical, Dental, Prescription or Vision Plan",0.0174408979300701,-2.2714285714285714,decreased
+351,Pay Parking Meter Ticket,0.013861806556443246,-2.2571428571428567,decreased
+352,Liquor Control Licensee Questions,0.028175244492924828,-2.2142857142857144,decreased
+353,Fugitive or Warrant Unit,0.0004495587632438112,-2.2,decreased
+354,Bus Problems,0.005249441207228339,-2.1857142857142855,decreased
+355,Mobile Medical Care Walk In Clinics,0.007636456934878794,-2.1714285714285713,decreased
+356,ResCare,0.00020570098094145473,-2.1571428571428575,decreased
+357,Senior Citizens Real Property Tax Deferral,0.015549374235335294,-2.1571428571428575,decreased
+358,Pay Bonds,0.04691481289645998,-2.1428571428571432,decreased
+359,Income Support Caseworker Complaint Silver Spring Office,0.01701501664063086,-2.142857142857143,decreased
+360,TRiPS Commuter Store,0.005997801641920059,-2.128571428571428,decreased
+361,DOT Highway Staff Compliment,0.014463462436659727,-2.128571428571428,decreased
+362,Moderately Priced Dwelling Unit (MPDU) Office Location,0.0071872683814518485,-2.1142857142857143,decreased
+363,Child and Adolescent Behavioral Health Outpatient Clinic,0.013538491944632901,-2.1,decreased
+364,AccessMCG - CSC Unable to Reset Password or Unlock Account,0.01685454956778833,-2.0428571428571427,decreased
+365,Medicaid Transportation Program,0.004049734960305753,-2.0285714285714285,decreased
+366,Montgomery Avenue Women's Center,0.0013316105379451112,-2.0,decreased
+367,Housing Contractor Complaint,0.04522785251579507,-2.0,decreased
+368,Free Cell Phone,0.0327775612638151,-1.9857142857142858,decreased
+369,First Aid/CPR Lessons,0.0021894301768624305,-1.9857142857142855,decreased
+370,EZ Pass,0.015511471685581068,-1.9857142857142855,decreased
+371,Employee - Montgomery County Government Exit Procedures,0.024453125304155193,-1.9857142857142855,decreased
+372,Family Justice Center (FJC),0.0037096823753034014,-1.9714285714285715,decreased
+373,Appealing a Speed Camera Citation,0.020895133911010506,-1.9571428571428569,decreased
+374,Park Overnight in Garage,0.00043919118938510305,-1.9428571428571428,decreased
+375,Workforce Housing Program,0.0070917700325404285,-1.9285714285714284,decreased
+376,Request for Proclamation From the County Executive,5.830286838549109e-05,-1.9142857142857144,decreased
+377,"Montgomery County Governement Employees Organization, Local 1994 Union",0.0010096071351757472,-1.9,decreased
+378,Explanation of New Traffic Sign on Street,0.029271234709721372,-1.9,decreased
+379,How to Become a Child Care Provider,0.0005838441026845411,-1.8857142857142857,decreased
+380,Cornerstone Montgomery (formerly Threshold Services),0.0037357330422027914,-1.8857142857142857,decreased
+381,Victim Assistance and Sexual Assault Program (VASAP) Offerings,0.0014839550938350542,-1.8714285714285717,decreased
+382,Licensee Special Order - Purchasing,0.014591237741707482,-1.8714285714285717,decreased
+383,Age at Which Children Can be Left Home Alone,0.012634147057573005,-1.8571428571428572,decreased
+384,"Closing an Income Support Food Stamp, TCA, Medicaid, or TDAP Case",0.02369867098269554,-1.8571428571428572,decreased
+385,Carryout Bag Law,0.04758115984100311,-1.8571428571428572,decreased
+386,Already Registered For MPDU Class But Can't Remember Time or Location,0.0014810040075049556,-1.8428571428571427,decreased
+387,Tuition Assistance for County Employees - Application Process,0.00010912453680884524,-1.8285714285714285,decreased
+388,Volunteering at a Montgomery County Fire Rescue Department,0.005178790055067483,-1.8285714285714283,decreased
+389,Mice Rats or Rodent Complaints in a Restaurant or Other Eating Establishment,0.0018068129251665802,-1.8142857142857145,decreased
+390,Accessory Apartment Inspections,0.0005102748250210514,-1.8,decreased
+391,Knox Box,0.03458520964810111,-1.8,decreased
+392,Patient Navigator Program to Assist the Low Income Latino Community,0.00020555712724933955,-1.7857142857142858,decreased
+393,"Hang Up, Dropped Cal or Wrong Number at DLC",0.01746283918208885,-1.7857142857142858,decreased
+394,Income Support Office or Supervisor Complaint Germantown,0.027607470033265753,-1.7857142857142858,decreased
+395,Viewing or Obtaining Copies of County Code and County Charter,0.0003580478970327436,-1.7857142857142856,decreased
+396,Pro-rating of Rental Licensing Fee,0.010849526597344498,-1.7857142857142856,decreased
+397,Schedule Fire Alarm Inspections - New Construction,0.0018311626920079955,-1.7714285714285716,decreased
+398,County Employee Process for Filing a Discrimination Claim,0.0037777318660288895,-1.7714285714285716,decreased
+399,Sample Leases,0.03392343175659963,-1.7714285714285716,decreased
+400,Business Hours for the Department of Housing and Community Affairs (DHCA) Housing Code Enforcement Unit,0.009273336541421819,-1.7571428571428571,decreased
+401,Ride On Fare Purchase SmarTrip Cards and Load Value,0.0007045918736312537,-1.7428571428571429,decreased
+402,New Curb Request,0.006865248772862024,-1.7428571428571429,decreased
+403,Ride On Bus Stop Park and Ride Lots,0.000493241377614695,-1.7142857142857144,decreased
+404,ChildLink Early Childhood Services,0.014619284504286813,-1.7142857142857144,decreased
+405,Noise Waiver,0.02711007954088178,-1.7142857142857144,decreased
+406,Alert Montgomery - Unsubscribe to Email or Text Alerts,0.028438232564474804,-1.7142857142857144,decreased
+407,Radon Testing Law,0.03137847618294718,-1.6714285714285717,decreased
+408,Medicaid Card Lost or Stolen - Germantown,0.02241779679965019,-1.6428571428571428,decreased
+409,"General Information about Types of Stormwater Management (Ponds, Underground Structures, Dry Ponds, Wetlands, Detention Basins, LID, ESD, Bioretention)",0.02393962259904029,-1.6428571428571428,decreased
+410,Physician or Other Medical Personnel Reporting TB Case,0.014788041015075228,-1.6285714285714286,decreased
+411,Family Medicaid MCHP Application Processing Time - All Three Health Care Eligibility Units (formerly MAGI and SEU Offices),0.03162845470537637,-1.6285714285714283,decreased
+412,Montgomery County Executive Staff and Directors,0.0007563960508741729,-1.6142857142857143,decreased
+413,Restaurant Inspection Results,0.0013715740960038557,-1.6142857142857143,decreased
+414,Procedure to Apply for Internship,0.0018048805291995325,-1.614285714285714,decreased
+415,The Opioid Crisis and the Drug Narcan or Naloxone,0.00027804724054911157,-1.6,decreased
+416,AccessMCG (iRecruitment) - Information Required to Complete Job Application,0.0030867862923226602,-1.6,decreased
+417,Unsolicited Phone Calls Demanding Money,0.00875352204226329,-1.6,decreased
+418,Montgomery County Government Workers' Compensation,0.009768914089735653,-1.6,decreased
+419,Confirm a Notice of Eviction,0.023499365606955026,-1.6,decreased
+420,AccessMCG External (iRecruitment) - Computer Requirements to Submit Employment Application,0.016799991019739467,-1.5714285714285716,decreased
+421,Access to Online Training Catalog,0.0013205404208573134,-1.5571428571428572,decreased
+422,Maryland Department of Juvenile Services,0.01302075092776285,-1.5428571428571427,decreased
+423,Rabies Vaccine for Human Beings,0.0020028552832234326,-1.5285714285714285,decreased
+424,"Report an Untagged, Abandoned, Dysfunctional, or Inoperable Vehicle on Residential Private Property",0.01443950896052029,-1.5285714285714285,decreased
+425,Indoor Air Quality,0.0006794627477567704,-1.5142857142857142,decreased
+426,Physical Address for the Office of the County Executive,0.000766585240031385,-1.5,decreased
+427,Maryland State Department of Education of Maryland Office of Child Care,0.001491311112961217,-1.5,decreased
+428,Project Reboot,0.001491311112961217,-1.5,decreased
+429,DataMontgomery Website,0.00016759978056774425,-1.4857142857142858,decreased
+430,Employment with Fire and Rescue Service,0.0005706401973292732,-1.4857142857142858,decreased
+431,Ride On Request for Later or Earlier Bus Service Hours to be Added to Existing Routes,0.0034926510125263253,-1.4857142857142858,decreased
+432,Speaker Request for Residential County Trash or Recycling Programs,0.002517086341839642,-1.4571428571428573,decreased
+433,Avery Road Treatment Center,0.0058131011666305256,-1.4571428571428573,decreased
+434,Marriage Certificate and Divorce Decree,0.017664643207750047,-1.4571428571428569,decreased
+435,Obtain a Montgomery County Permit for Hazardous Materials,0.0007296903520099057,-1.4428571428571428,decreased
+436,Housing Code Enforcement Process,0.04748978754168861,-1.4428571428571426,decreased
+437,AccessMCG (FIN Payroll) - Employee Didn't Receive or Can't Find Letter With Temporary Login ID & Temporary Password,0.0015652166937124433,-1.4285714285714286,decreased
+438,Requirements for Becoming a Foster and/or Adoptive Parent,0.01803677985464035,-1.4285714285714284,decreased
+439,Licensee Credits,0.012407950227321966,-1.4142857142857141,decreased
+440,Random Selection Drawing Results For MPDU Sales,0.006802177826898858,-1.4,decreased
+441,Contact the County Attorney's Office Regarding a Code Enforcement Issued Citation or Upcoming Court Date,0.0028606459743246333,-1.3857142857142857,decreased
+442,"Montgomery County Police Department, Security Services Division Office Location and Contact Information",0.018069429924325732,-1.3857142857142857,decreased
+443,Storm Water Management Concept,0.020406771509596314,-1.3857142857142857,decreased
+444,Interior Maintenance of Commercial Properties,0.013153322896521016,-1.3714285714285717,decreased
+445,Pay by Cell Park Now Parking System,0.0017311564301489971,-1.3714285714285714,decreased
+446,Ride On Request for Camera Footage,0.01218245810678038,-1.3571428571428572,decreased
+447,Medical Transportation Program Application Submission,0.015186439127952856,-1.3571428571428572,decreased
+448,Apply for Temporary Disability Assistance Program or TDAP Rockville,0.04374110742764728,-1.3571428571428572,decreased
+449,Immediate Need for Car Seat Inspection Appointment,0.004384131570348814,-1.3285714285714287,decreased
+450,Specialized Medical Care Montgomery Cares,0.04591224497973975,-1.3285714285714287,decreased
+451,Notice of Violation Received from The Licensing and Registration Office,0.041068601308431714,-1.3285714285714285,decreased
+452,New Residential Permit Parking Area,0.04473184702670502,-1.3285714285714283,decreased
+453,Questions about Cannabis (Marijuana) in the State of Maryland,0.003436896596673244,-1.314285714285714,decreased
+454,Emergency Building Inspections by the Department of Permitting Services (DPS),0.0038356174534912493,-1.314285714285714,decreased
+455,County Land or Building For Lease or Sale,0.039081001484495344,-1.3,decreased
+456,Vehicles  for Change - Maryland Transportation Program,0.04002055009703144,-1.3,decreased
+457,Transfer Call to 911,0.001528357188474735,-1.2857142857142858,decreased
+458,Missing Person,0.001968301904753812,-1.2857142857142858,decreased
+459,Apply for Temporary Disability Assistance Program (TDAP) -  Silver Spring,0.022436367477147192,-1.2857142857142858,decreased
+460,Apply for Temporary Disability Assistance Program (TDAP) - Germantown,0.03295069731535819,-1.2857142857142858,decreased
+461,Montgomery County Correctional Facility and Detention Center Visiting Hours,0.017549137491628553,-1.2857142857142856,decreased
+462,Fuel Energy Tax Information,0.0010336167778159443,-1.2714285714285714,decreased
+463,MCGEO Members Sick Leave Bank,0.00870641713288393,-1.2571428571428571,decreased
+464,Obtaining Guardianship of a Child,0.01727700501588493,-1.2571428571428571,decreased
+465,Employee - Voluntary Short Term Disability,0.027058934616325674,-1.2571428571428571,decreased
+466,Fire Hydrant Maintenance,0.03166440417333418,-1.2571428571428571,decreased
+467,Enforcement Cameras and Speed to Trigger Citation,0.0025003170552659213,-1.2428571428571429,decreased
+468,Damage to Personal Property by Fire and Rescue Services,0.002942517322923762,-1.2428571428571429,decreased
+469,"Employee, Retiree and Participating Agency - Insurance Claims Issues",0.03610760943585771,-1.2428571428571429,decreased
+470,Screening and Assessment Services for Children and Adolescents SASCA,0.019490441925671804,-1.2142857142857144,decreased
+471,Flu Clinic Appointments 2018 2019 Season,0.02020116308091096,-1.2142857142857142,decreased
+472,Employee - LiveWell and Virgin Pulse Program Information,0.020404301039845054,-1.2142857142857142,decreased
+473,Medicaid Card Lost or Stolen - Silver Spring,0.03172573117768999,-1.2142857142857142,decreased
+474,Lawn Care Law,0.04132764528708303,-1.2142857142857142,decreased
+475,Vehicle Lockouts,0.01926211913383783,-1.185714285714286,decreased
+476,Employee - Requests  Copy of Pay Advice (Payslip),0.0029951633190497015,-1.1857142857142857,decreased
+477,Panhandling Enforcement,0.023506424446702073,-1.1857142857142855,decreased
+478,How to Reach a Case Worker in Child Foster Care,0.02485293432633877,-1.1714285714285717,decreased
+479,Obtain a Copy of an Accident Report,0.019291356312696885,-1.1571428571428573,decreased
+480,Travel Vaccines for Children,0.04815751371983851,-1.1571428571428573,decreased
+481,Renewal of MPDU Certificate,0.02940290627944067,-1.1428571428571428,decreased
+482,Department of Liquor Control Hours of Operation,0.04009291264774772,-1.1428571428571428,decreased
+483,Domestic Partnership Health Insurance,0.032346821239250284,-1.114285714285714,decreased
+484,Metro Disability ID Card,0.014088649093274019,-1.1,decreased
+485,Rabies Shot or Vaccine After Animal Bite,0.016259046974551935,-1.1,decreased
+486,Passport Application,0.0026359216743590285,-1.0857142857142859,decreased
+487,CCOC Community Association Manual and Resource Guide,0.0055363410723658114,-1.0857142857142859,decreased
+488,Health and Human Services Guide to the Community or Request HHS Presence at a Health Fair or Event,0.013722761088137374,-1.0857142857142859,decreased
+489,General Wage Adjustment Fiscal Year 2019,0.01545466990758564,-1.0714285714285714,decreased
+490,Tdap or Tetanus-Diptheria-Acellular Pertussis Vaccination and Meningococcal or MCV4 Vaccination  School Year 2018 2019,0.018635566715349473,-1.0714285714285714,decreased
+491,Duration of Eviction Process,0.022334894418893962,-1.0714285714285714,decreased
+492,Welfare Avoidance Grant or WAG,0.02301639848520162,-1.0714285714285714,decreased
+493,County Assistance for Stream Erosion Problems on Private Property,0.02565681279306738,-1.0714285714285714,decreased
+494,"Stormwater Management (Ponds, Underground Structures, Dry Ponds, Wetlands, Detention Basins)",0.02565681279306738,-1.0714285714285714,decreased
+495,Housing Choice Voucher With Moderately Priced Dwelling Unit (MPDU) Rental Units,0.029742442696311686,-1.0714285714285714,decreased
+496,Income Support Office or Supervisor Complaint Rockville,0.03748029378144063,-1.0714285714285714,decreased
+497,Payment of Outstanding Parking Meter Violations,0.0027952284851338934,-1.0571428571428572,decreased
+498,Shepherd's Table,0.0230066911927442,-1.0571428571428572,decreased
+499,Disabled Vehicle,0.041785348253175716,-1.0571428571428572,decreased
+500,Wrong Product Delivered,0.02082860466394785,-1.0428571428571427,decreased
+501,Parking Ticket Enforcement Officer Complaint,0.010630542670496896,-1.0142857142857142,decreased
+502,Montgomery County Office of Budget and Management - Budget Information,0.018962098753140505,-1.0142857142857142,decreased
+503,Montgomery County Recreation Facility Complaints,0.027059630222185018,-1.0142857142857142,decreased
+504,General Information about Stormwater Facility Maintenance,0.004997920132095667,-1.0,decreased
+505,"Bed Bugs in Private Homes, Hotels or Motels",0.007526519797131049,-1.0,decreased
+506,"Transfer an Income Support Case to Another Jurisdiction in Maryland, Silver Spring Office",0.016418660102918054,-1.0,decreased
+507,Upcounty Community Events,0.027070222572118177,-0.9857142857142858,decreased
+508,Notification to Tenant for Retention of Security Deposit by Landlord,0.042134672377166824,-0.9857142857142858,decreased
+509,Eligibility Requirements for Montgomery County Recreation Financial Assistance,0.003449152807180887,-0.9714285714285714,decreased
+510,Silver Spring - Urban District,0.04198400605079775,-0.9714285714285714,decreased
+511,"Pedestrian, Bicycle, Traffic and Safety Advisory Committee",0.006412424853139124,-0.9571428571428572,decreased
+512,Retiree - Cobra Claims Issue,0.023763888479532338,-0.9571428571428572,decreased
+513,English Classes in Silver Spring,0.04092210497094722,-0.9571428571428572,decreased
+514,Benefit Strategies Email Error,0.04977309768827864,-0.9571428571428572,decreased
+515,Received Parking Ticket with Time Left on Meter,0.012686989874283162,-0.9428571428571428,decreased
+516,Tree Crew Removed Tree but Stem or Trunk Remains,0.02588473976490352,-0.9428571428571428,decreased
+517,Contractor or Company Recommendation,0.033751580723762054,-0.9428571428571428,decreased
+518,MPIA Departmental Contacts,0.006423764678911278,-0.9285714285714286,decreased
+519,"Questions Related to a Specific Press Release, Press Event, or Statement From County Executive",0.006423764678911278,-0.9285714285714286,decreased
+520,Medical Examiner,0.01290987403663316,-0.9285714285714286,decreased
+521,Employee 2019 Health Care Flexible Spending Account,0.01691158943531134,-0.9285714285714286,decreased
+522,Employment Resources for People 50 Years and Older,0.04545997102384862,-0.9285714285714286,decreased
+523,Local Small Business Reserve Program,0.016705113300148764,-0.9142857142857141,decreased
+524,Responsibility of Alarm Company to Reduce False Alarms,0.021262800375157296,-0.9142857142857141,decreased
+525,Sprinkler Installation,0.011059412125611073,-0.9,decreased
+526,State Traffic Cameras,0.011059412125611073,-0.9,decreased
+527,Classes on How to Start a Business,0.01989649465554376,-0.9,decreased
+528,Length of Time to Obtain a Commercial Building Permit,0.027584950731523866,-0.9,decreased
+529,Ride On Fare Montgomery College Students Ride Free,0.0013451578155393793,-0.8714285714285714,decreased
+530,AccessMCG (FIN Payroll) - Employees with Single Sign On Access,0.005494892727055115,-0.8714285714285714,decreased
+531,Challenging Automated Traffic Enforcement Citations Received Weeks After the Alleged Incident,0.002619222995018495,-0.8571428571428571,decreased
+532,Employee - BCBS Blue Choice Advantage Network,0.008088745097244983,-0.8571428571428571,decreased
+533,Request Fire Rescue Staff at Event or Speaking Engagement,0.014467071115937771,-0.8428571428571427,decreased
+534,Office of Community Partnerships,0.03888917735848768,-0.8428571428571427,decreased
+535,Request New Guardrail,0.014778348522469434,-0.8285714285714286,decreased
+536,Raising or Lowering Speed Limit,0.033094446215280404,-0.8285714285714286,decreased
+537,Job Opportunities with Montgomery County Public Schools,0.033094446215280425,-0.8285714285714286,decreased
+538,Montgomery County's Position on U.S. Immigration and Customs Enforcement (ICE),0.04742145119355595,-0.8285714285714286,decreased
+539,Health Care Eligibility Unit  (former Service Eligibility and MAGI Unit)s Case Worker Complaint Rockville,0.04742145119355595,-0.8285714285714286,decreased
+540,Automatic Fire Sprinklers in Homes,0.010249241381594538,-0.8142857142857142,decreased
+541,Moderately Priced Dwelling Unit (MPDU) Program Income Limits,0.034396348123410636,-0.8142857142857142,decreased
+542,Taxi Order or Schedule,0.0417914701148291,-0.8142857142857142,decreased
+543,"Caller Unable to Reach MC311 by Dialing ""3-1-1""",0.017956570252681717,-0.8,decreased
+544,Air Conditioning Requirement in a Rental Dwelling,0.0467624320288232,-0.8,decreased
+545,Montgomery County Government Employee - Recreation Total REC Pass and Family All Pool Pass,0.0028453372865030447,-0.7857142857142857,decreased
+546,Montgomery County School Crossing Guards,0.009940570934265723,-0.7857142857142857,decreased
+547,Longevity Increment Fiscal Year 2019,0.015102513211987176,-0.7857142857142857,decreased
+548,Census Jobs,0.015102513211987176,-0.7857142857142857,decreased
+549,Carbon Monoxide Detectors In Rental Units,0.02115086743380992,-0.7857142857142857,decreased
+550,Manual J Calculations for a Residential Mechanical Permit,0.01443687446636831,-0.7714285714285714,decreased
+551,General Information for Pending Evictions,0.04421753223525981,-0.7714285714285714,decreased
+552,Maximum Occupancy for BEDROOM,0.02555565534729627,-0.7571428571428572,decreased
+553,Taxable Levy Year,0.0038267441135582453,-0.7571428571428571,decreased
+554,Commission on Aging,0.007757190562661395,-0.7571428571428571,decreased
+555,Use Silver Spring Civic Building at Veterans Plaza,0.01304963777596548,-0.7571428571428571,decreased
+556,City of Rockville Senior Center,0.013049637775965486,-0.7571428571428571,decreased
+557,Residential Kitchen Range Hoods,0.013049637775965486,-0.7571428571428571,decreased
+558,Participating Agency Employee - Verify Health Insurance Coverage,0.026838260056238728,-0.7571428571428571,decreased
+559,Commuter Services Program,0.03488593104493889,-0.7571428571428571,decreased
+560,Finding Child Care Providers,0.005581537935852895,-0.7285714285714286,decreased
+561,Methadone Clinic in Montgomery County,0.024626530103540684,-0.7285714285714286,decreased
+562,AccessMCG - Can't Remember or Forgot Login ID,0.006477588958467389,-0.7142857142857143,decreased
+563,Frequency of Housing Code Enforcement Multi-family Inspections,0.006477588958467389,-0.7142857142857143,decreased
+564,Office of Health Care Quality Licensing,0.011838028025660799,-0.7142857142857143,decreased
+565,Silver Spring Vet Center,0.01863556671534945,-0.7142857142857143,decreased
+566,Site Plans are Required with a Sediment Control Permit Application or a Public Right of Way Permit Application,0.04489612348358556,-0.7142857142857143,decreased
+567,Soliciting,0.02919350629615885,-0.7,decreased
+568,"Montgomery County Cancer Crusade, Nicotine Tobacco Cessation",0.02299141993961756,-0.657142857142857,decreased
+569,Next Step in the MPDU Home Ownership Program Following Completion of the MPDU Orientation Seminar,0.03339240007273216,-0.657142857142857,decreased
+570,Family Medicaid Appeal Process - All Three Health Care Eligibility Units (formerly MAGI and SEUs),0.04480307309760034,-0.657142857142857,decreased
+571,Accessory Apartment Public Notice Sign,0.022436367477147192,-0.6428571428571429,decreased
+572,Controlled Dangerous Substance (CDS),0.03295069731535819,-0.6428571428571429,decreased
+573,Stormwater Facility Maintenance,0.04453630670024999,-0.6428571428571429,decreased
+574,Report a Broken Web-Link,0.029307373807641566,-0.6285714285714286,decreased
+575,OHR and MC311 Partnership,0.020803266766772625,-0.6142857142857143,decreased
+576,Residential Parking Description,0.032519305212186864,-0.6142857142857143,decreased
+577,Business Hours for the Moderately Priced Dwelling Unit (MPDU) Program,0.034265434662139556,-0.6,decreased
+578,Ride On Advertise on Buses or Bus Shelter,0.01837769265277821,-0.5857142857142856,decreased
+579,Maryland's Commitment to Veterans,0.01837769265277821,-0.5857142857142856,decreased
+580,Navigation of Department of Recreation Website,0.030674917096995238,-0.5857142857142856,decreased
+581,Residential Permit for Overnight Guests to Park,0.030674917096995245,-0.5857142857142856,decreased
+582,Solar Panel Financing,0.04482062340997801,-0.5857142857142856,decreased
+583,New County Building Design and Construction Information,0.005652526562219237,-0.5714285714285714,decreased
+584,Retiree - Long Term Care Insurance,0.005652526562219237,-0.5714285714285714,decreased
+585,AccessMCG (FIN Payroll) - Employees Using Email Addresses as Logins,0.014233416415981366,-0.5714285714285714,decreased
+586,CharmCard,0.014233416415981375,-0.5714285714285714,decreased
+587,Personnel Management Review Report,0.02606319337636288,-0.5714285714285714,decreased
+588,Smoke Detectors in a Rental Unit,0.02606319337636288,-0.5714285714285714,decreased
+589,Allowed Uses of Public Space,0.04009291264774772,-0.5714285714285714,decreased
+590,Definition of Washington Suburban Sanitary Commission (WSSC) Remainder,0.04093906615265313,-0.5571428571428572,decreased
+591,Capital Bikeshare in Montgomery County,0.02502926127632557,-0.5428571428571429,decreased
+592,Pro bono Consultant Volunteer Program,0.04100071449036981,-0.5428571428571429,decreased
+593,Permanent Visitor Permit,0.04100071449036981,-0.5428571428571429,decreased
+594,American Flag Display and Disposal,0.04100071449036981,-0.5428571428571429,decreased
+595,Reason for Parking Ticket,0.04028222335051196,-0.5142857142857142,decreased
+596,M-NCPPC Nature Centers,0.012986865174166692,-0.5,decreased
+597,Community Use Fees,0.012986865174166692,-0.5,decreased
+598,Pay by Cell Ticket Issued,0.012986865174166692,-0.5,decreased
+599,Recovered Vehicle,0.012986865174166692,-0.5,decreased
+600,West Nile Virus,0.012986865174166692,-0.5,decreased
+601,Kind and Gentle Dental Care,0.02850443458794701,-0.5,decreased
+602,Court Ordered Supervised Visits with Child,0.04749054615278071,-0.5,decreased
+603,Termination of Food Stamps TCA Medicaid or TDAP How to Appeal or Overpayment,0.04749054615278071,-0.5,decreased
+604,Services Offered at the Family Justice Center,0.04749054615278071,-0.5,decreased
+605,Payment Options and Requirements for Recreation Class Registration,0.04749054615278071,-0.5,decreased
+606,Wheaton Urban District,0.0284462264392816,-0.4714285714285714,decreased
+607,Required Documents When Obtaining an Electrical Permit,0.028446226439281623,-0.4714285714285714,decreased
+608,Ride On Public Service Ad Display,0.027531588210939227,-0.42857142857142855,decreased
+609,Reaching DHCA Staff for Urgent Matters,0.027531588210939227,-0.42857142857142855,decreased
+610,Discount for Phone Services for County Employees,0.027531588210939227,-0.42857142857142855,decreased
+611,Pay-by-Space Parking,0.027531588210939227,-0.42857142857142855,decreased
+612,Solicitors Permit (County and State),0.027531588210939227,-0.42857142857142855,decreased
+613,Location of the  East County Regional Service Center (RSC),0.028972186848166527,-0.4,decreased
+614,On-line Citizen Reporting System (CRS),0.01863556671534945,-0.35714285714285715,decreased
+615,TB Test for Pregnant Women,0.01863556671534945,-0.35714285714285715,decreased
+616,COB Garage Renovations,0.01863556671534945,-0.35714285714285715,decreased
+617,Restaurants' Exemption for the Carryout Bag Law,0.01863556671534945,-0.35714285714285715,decreased
+618,GET-IN (Government Employee Transit Incentives) Program,0.01863556671534945,-0.35714285714285715,decreased
+619,Frequency of County Job Fairs,0.01863556671534945,-0.35714285714285715,decreased
+620,Call-n-Ride Changes to Swipe Card Accounts,0.01863556671534945,-0.35714285714285715,decreased
+621,Furnace Repair or Replacement,0.01863556671534945,-0.35714285714285715,decreased
+622,Mental Health Case Management Services,0.01863556671534945,-0.35714285714285715,decreased
+623,Verification for Medicaid for families or Medical Assistance for Children,0.040092912647747704,-0.2857142857142857,decreased
+624,Blasting Complaint,0.040092912647747704,-0.2857142857142857,decreased
+625,Call-n-Ride Payment Options and Mailing Address,0.040092912647747704,-0.2857142857142857,decreased
+626,Lost Procurement Central Vendor Registration System Password,0.040092912647747704,-0.2857142857142857,decreased
+627,Vaccines or Immunizations for Immigration Purposes,0.040092912647747704,-0.2857142857142857,decreased
+628,Dissatisfaction with Montgomery County Recreation Program,0.040092912647747704,-0.2857142857142857,decreased
+629,AccessMCG (iRecruitment) - Employment Application Submission Deadline on Closing Date,0.040092912647747704,-0.2857142857142857,decreased
+630,Elder or Senior Care Locator Nationwide,0.040092912647747704,-0.2857142857142857,decreased
+631,Questions About the Data on the DataMontgomery Website,0.040092912647747704,-0.2857142857142857,decreased
+632,Retiree - Insurance Claim Form,0.040092912647747704,-0.2857142857142857,decreased
+633,Cost of Required MPDU Classes,0.040092912647747704,-0.2857142857142857,decreased
+634,Landlord Missing Recent Housing Opportunities Commission (HOC) Rent Payment,0.040092912647747704,-0.2857142857142857,decreased
+635,Library Compliments,0.040092912647747704,-0.2857142857142857,decreased
+636,Location of the Upcounty Regional Service Center (RSC),0.040092912647747704,-0.2857142857142857,decreased
+637,Assault/Battery,0.040092912647747704,-0.2857142857142857,decreased
+638,Taxi Fees,0.040092912647747704,-0.2857142857142857,decreased
+639,Vision Zero Initiative,0.040092912647747704,-0.2857142857142857,decreased
+640,Liquor Store Locations and Hours of Operation,0.040092912647747704,-0.2857142857142857,decreased
+641,Height Restrictions for Yard Sign on Private Residential Property,0.040092912647747704,-0.2857142857142857,decreased
+642,Cost of Parking in Wheaton,0.040092912647747704,-0.2857142857142857,decreased
+643,Youth Substance Usage and Mental Health Screenings,0.040092912647747704,-0.2857142857142857,decreased
+644,Services  Provided by the Payment of Montgomery County Property Taxes,0.040092912647747704,-0.2857142857142857,decreased
+645,Age/Size When Child Should Start Riding in Forward-Facing Car Seat,0.03678749787978613,0.4,increased
+646,Pet Waste Management Program,0.03678749787978613,0.4,increased
+647,ABS Delivery Truck Damaged Property,0.03678749787978613,0.4,increased
+648,Council News Releases,0.03678749787978613,0.4,increased
+649,Home Health Aide Licensing and Cerification,0.03531979291199548,0.4285714285714286,increased
+650,How To Update Information About an MPDU Certificate of Eligibility for the Sales Program,0.014956363910414203,0.5,increased
+651,Employment Opportunities with Montgomery County Department of Police,0.04415353582141624,0.5285714285714286,increased
+652,Request to Speak with a Board of Elections (BOE)  Employee,0.04415353582141624,0.5285714285714286,increased
+653,Embezzlement,0.04415353582141624,0.5285714285714286,increased
+654,Student Request for Volunteer Opportunities or Internships with Local Nonprofits in Montgomery County,0.04415353582141624,0.5285714285714286,increased
+655,Connecting to a New or Existing Water/Sewer Line,0.044922624504341056,0.5571428571428572,increased
+656,Adding a Family Member to a Moderately Priced Dwelling Unit (MPDU) Deed during the Control Period.,0.0025530600682614536,0.6285714285714286,increased
+657,Montgomery Housing Partnership (MHP),0.04734422550093023,0.757142857142857,increased
+658,Office of the County Executive Location and Office Hours,0.022367189680572087,0.8,increased
+659,COVID-19 Temporary DHCA Housing Inspection Protocol for Interior Complaints in Response to COVID-19,0.03678749787978613,0.8,increased
+660,Refinancing a Moderately Priced Dwelling Unit (MPDU) During the Control Period,0.04328653727451644,0.8142857142857144,increased
+661,Hours of Operation for the Board of Elections (BOE),0.03204781206496149,0.8571428571428572,increased
+662,Town of Laytonsville,0.011894121122954376,0.8857142857142858,increased
+663,Police Towing Complaints,0.009990684849755092,0.9,increased
+664,Registering/Signing up for Investment Counseling,0.029399460726834657,0.9,increased
+665,Accessory Dwelling Unit (ADU) Complaint,0.041416150486262744,0.9,increased
+666,Utility Assistance for Public Housing or HOC (Housing Choice Voucher),0.03456865540063917,0.9142857142857143,increased
+667,Simplifile,0.014956363910414203,1.0,increased
+668,Change to In-Person Voting at Polling Station after Receiving an Absentee Ballot,0.014956363910414203,1.0,increased
+669,Office of Health Care Quality Licensing and Exempt Building Issues,0.01138525507192989,1.0571428571428572,increased
+670,AccessMCG (FIN Payroll) - Employee Unable to Complete Address Change Online,0.017438860908343328,1.1,increased
+671,Tree Montgomery - Follow up from Site Visit,0.014643677184752882,1.1142857142857143,increased
+672,Questions regarding Absentee Ballots for Military or individuals overseas,0.011964617739524319,1.1285714285714286,increased
+673,Complaint Regarding a Telephone Bill,0.005121072764272635,1.2,increased
+674,State of Maryland Medical Examiner,0.005121072764272635,1.2,increased
+675,Employee - Vision Insurance Assistance,0.012992786487757368,1.2,increased
+676,Absentee Ballot for General Election After Vote Via Absentee Ballot During Past Primary and/or General Elections,0.013275877464573012,1.3,increased
+677,AccessMCG (FIN Payroll) - Temporary Login ID and Temporary Password Assistance,0.013275877464573012,1.3,increased
+678,COVID-19 Quarantine Hotel,0.04500099771252722,1.3,increased
+679,Employee - Request for Copy of Pay Advice (Payslip),0.004404838762275397,1.4,increased
+680,"Current Active Employees' Change of Address, Phone Number or Emergency Contacts",0.006723515763058952,1.4,increased
+681,AccessMCG (FIN Payroll) - Employees Viewing Pay Advice or Payslip,0.009106153759546399,1.5,increased
+682,DPS Offices Closed for Walk-in Customers,0.018328392205591498,1.5,increased
+683,COVID-19 Ride On Offering Face Covering Pilot Program,0.02985818217520561,1.5,increased
+684,Public Assistance to Adults,0.04055190058308587,1.5142857142857142,increased
+685,"General Information about Types of Stormwater Management BMPs (Ponds, Underground Structures, Dry Ponds, Wetlands, Detention Basins, LID, ESD, Bioretention)",0.004979322437633268,1.5571428571428572,increased
+686,Stormwater Management on Private Residential Lots,0.0018694771170562289,1.5857142857142854,increased
+687,Maryland Department of Education Division of Early Childhood (Child Care),0.0005367366369119512,1.6,increased
+688,"Case Status, Office of Consumer Protection",0.04394807589239724,1.6714285714285715,increased
+689,COVID-19 Curbside Pickup and Delivery Zones,0.013963451496507994,1.7,increased
+690,COVID-19 Montgomery County Public School Community Messages,0.0012358639645822782,1.8,increased
+691,Rental Assistance Program (RAP) Check or Benefit,0.010209635624403978,1.8571428571428572,increased
+692,COVID-19 Transportation Updates,0.011879885594370202,1.9,increased
+693,COVID-19 Emergency Closure Meals Service for MCPS Students,0.03434503548488308,2.0,increased
+694,Employee - Request Copy of W-2 Form Not Received,0.003959385731141098,2.1,increased
+695,"Hang Up, Dropped Cal or Wrong Number at ABS",0.029980500798727362,2.171428571428571,increased
+696,Maryland Occupational Safety and Health (MOSH),0.018729654672763645,2.2,increased
+697,Alcohol Beverage Services Licensee Questions,0.04247053760947851,2.228571428571428,increased
+698,COVID-19 Office of County Attorney Update,0.0002559736583619996,2.3,increased
+699,Alcohol Beverage Services Hours of Operation,0.024284935156809257,2.3,increased
+700,COVID-19 New Employees Enrollment Information,0.011638368466420503,2.5,increased
+701,Air Conditioning Requirements in Rental Townhome or Multi-Family Dwelling Unit,0.04197210798802424,2.6,increased
+702,Nursing Home Licensing and Complaints,0.04457156018681977,2.628571428571429,increased
+703,Food Assistance,0.03570544070953359,2.7,increased
+704,"Complaint about Homeless Shelter, Hotel or Motel Issues",0.03206839881733725,2.814285714285714,increased
+705,Report a Maintenance Problem in a Stormwater BMP or Pond,5.700280960366331e-05,2.9285714285714284,increased
+706,"Retiree - Verification of ERS, RSP or GRIP Pensions",0.02967443656734251,2.942857142857144,increased
+707,Definition of Accessory Dwelling Unit,0.00015787420125479412,3.0142857142857142,increased
+708,Central Vendor Registration System (CVRS),0.04208551111967857,3.2428571428571424,increased
+709,"Tree Permits, Removal, and Concerns.",0.004339370322755132,3.5,increased
+710,Failure to Renew an Electrical License,0.004700152674496787,3.8428571428571425,increased
+711,Residential Building Permit for Retaining Wall,0.023004665513524168,3.8857142857142852,increased
+712,Adding a Family Member to a Property Deed Title,0.04007629214875912,3.8857142857142852,increased
+713,Retiree - SilverScript Prescription Plan for Medicare Eligible Retirees,0.030668764868750264,4.185714285714287,increased
+714,Reporting Maintenance Issues on School Property,0.019730330956356585,4.228571428571428,increased
+715,"Food, Nutrition, Meals on Wheels (MOW), Senior Lunch Program",0.012864553088587558,4.314285714285714,increased
+716,Moving Assistance or Storage - HHS,0.04039163076689154,4.4,increased
+717,Minimum State Supplement Benefits and Food Stamps,0.013062682735283403,4.428571428571429,increased
+718,Greater D.C. Diaper Bank,0.0001728401360376637,4.5,increased
+719,Business Trash and Recycling Questions and Complaints,0.016796266672990612,4.5,increased
+720,COVID-19 Residential Permit Parking Suspended,0.0012970265272987866,4.7,increased
+721,Immunization Clinic Schedule for Children 2020 2021 School Year,0.028493124615367058,5.1,increased
+722,Board of Elections Voter Services,0.011047578254103928,5.242857142857143,increased
+723,Census 2020 Information and Employment Opportunities,0.024793018114375558,5.342857142857143,increased
+724,Noise Complaint to the Police Department,0.0014599323492991353,6.071428571428571,increased
+725,Siebel User Training,0.006598677899481601,6.114285714285715,increased
+726,Reduced Cost Dental Care for Low Income Adults,0.0024362556057854648,6.3,increased
+727,Residential Building Codes,9.025486607532481e-05,6.614285714285715,increased
+728,Raising Chickens and Roosters,0.0015522364577662535,6.7,increased
+729,Renewing an Electrical License Online,0.01850831921266513,6.828571428571427,increased
+730,Driveway Apron Replacement,0.016327105708069296,7.614285714285715,increased
+731,Board of Elections 2020 Elections and Early Voting,0.03275431807437015,7.7,increased
+732,COVID-19 DHCA MPDU Program,0.0013790508802509341,7.9,increased
+733,Income Support Case Manager; Supervisor or Office Complaint All Offices,0.005518210635277248,8.3,increased
+734,eBox,0.04039163076689154,8.8,increased
+735,COVID-19 Montgomery County Tax Payments and Internal Revenue Service (IRS) Filing Modifications,0.009462668638496314,9.1,increased
+736,Assistance with Utility Disconnection - HHS,0.029652570628515253,9.2,increased
+737,Health Care Eligibility Units  (formerly MAGI and SEU units) Request All Offices,0.0002281853305549886,9.22857142857143,increased
+738,Fax Numbers for HHS Income Supports and Health Care Eligibility Offices,0.016171619687344953,9.828571428571427,increased
+739,Absentee Ballot Application Status,0.014171584072909938,9.82857142857143,increased
+740,Assistance with State or Federal Taxes,0.017917650273478896,9.885714285714288,increased
+741,Specified Low Income Medicare Beneficiary or Qualified Medicare Beneficiary SLMB or QMB for all Public Assistance Offices,0.008386907395715116,10.057142857142857,increased
+742,Permit Extension Fee,0.021579318495426096,10.328571428571426,increased
+743,Homeless Information Line and Homeless Resources,0.01576332272447011,10.600000000000001,increased
+744,Retiree - Prescription Insurance Inquiry,0.0001869168178787727,11.0,increased
+745,Noise Complaint to the Department of Environmental Protection,0.041090449435243696,11.214285714285715,increased
+746,COVID-19  Accessing Services for Homeless Individuals and Families,0.00020221778143050305,11.5,increased
+747,Employee or Participating Agency- Verify Health Insurance Coverage,0.043684864798102165,12.1,increased
+748,Employee or Retiree - Turning Age 65,0.04036985611268403,12.3,increased
+749,Standards for Class 3 Accessory Dwelling Units,0.00032831582640120135,12.4,increased
+750,Montgomery Cares Clinics for Low Income Adults,0.006778562065988995,12.442857142857143,increased
+751,Recording Fees Associated With a Deed in Montgomery County,0.0007770005960640952,12.714285714285715,increased
+752,Child Support Administration of Maryland,0.0001794209412255716,13.514285714285712,increased
+753,COVID-19 Maryland Department of Health Frequently Asked Questions,0.02577815864515564,13.7,increased
+754,"Death of a County Retiree, Active Employee or Dependent",0.031373795186433566,14.6,increased
+755,United States Department of Labor Employment Call Center,0.00927037671870776,14.72857142857143,increased
+756,Montgomery County Internal Revenue Service Office,0.04761353008103919,15.814285714285715,increased
+757,Maternity Partnership Program Case Management and Education - Germantown,0.00010057753475900259,16.028571428571432,increased
+758,Contact Montgomery County Government,0.013942157475046029,17.314285714285717,increased
+759,6 Gallon Baby Blue Delivery,0.004368474721194288,17.371428571428574,increased
+760,Contact a Landlord Tenant Investigator,3.903400192231932e-05,17.857142857142858,increased
+761,COVID-19 Renter Relief Act,0.0017461080078359005,20.1,increased
+762,Maternity Partnership Program Case Management and Education - Silver Spring,0.00013639167658916623,20.614285714285714,increased
+763,Pregnant Woman In Need of Health Care,0.0011691399865101269,20.95714285714286,increased
+764,Absentee Ballot Questions,0.01363932895979936,21.671428571428574,increased
+765,Reporting Animal Complaints to the Office of Animal Services,0.005936758937734003,22.0,increased
+766,First Month's Rent or Security Deposit - HHS,0.04067615132804202,22.1,increased
+767,Ride On Real Time Accuracy,0.038964341869101846,22.371428571428567,increased
+768,Process for Electrical License Renewal,7.359033841542304e-05,22.44285714285714,increased
+769,Contact Case Manager 7300 Calhoun Place Income Support Office,0.004073843877934911,22.54285714285714,increased
+770,Status of Health Care Eligibility Units Application  or How to Apply All Three Office Locations,4.529251900486571e-05,22.94285714285714,increased
+771,"Permit Required for Fence, Deck or Shed",0.03653174201012279,24.942857142857143,increased
+772,How to Request an Absentee Ballot Application,0.010378498612243195,25.885714285714286,increased
+773,311 Call Centers Outside Maryland,0.0031886901853037867,27.714285714285715,increased
+774,"Board of Elections Location, Mailing Address, and Business Hours",0.009448627332263008,28.357142857142858,increased
+775,COVID-19 Evictions and Utility Disconnections Suspended,0.00597375522594164,28.8,increased
+776,COVID-19 Report Violations of Maryland Governor's Emergency Orders to the Montgomery County Police,0.0031515010897964855,29.5,increased
+777,Applying for the Rental Assistance Program or Status of an Application,0.0036331191328284967,30.84285714285715,increased
+778,HELP Non Profit Community Groups,0.007506501608148193,33.0,increased
+779,Contact MANNA and How to Make a Donation to MANNA,0.04634711360665777,35.614285714285714,increased
+780,Obtain a Tax Clearance Certificate,0.004702037272735648,36.285714285714285,increased
+781,"COVID-19 Maryland Health Connection Special Enrollment Period Through July 15, 2020",0.0029308207182043903,36.6,increased
+782,Montgomery County Public Schools Contact Information,0.0001265602092379885,44.1,increased
+783,State of Maryland Information Center,0.008028686878248805,48.057142857142864,increased
+784,Birth Death Marriage or Divorce Certificates,5.651527122505523e-07,53.785714285714285,increased
+785,Motor Vehicle Administration (MVA),0.0012556381855161724,55.900000000000006,increased
+786,COVID-19 Phase Two Reopening,0.03159277923150974,56.2,increased
+787,COVID-19 2021 Rental Housing Licensing Renewal and Common Ownership Communities (COC) Annual Registration on Hold,0.008547113233640517,57.9,increased
+788,Personal Property Tax Bills,0.0002828786796489366,60.64285714285714,increased
+789,Request County to Plant a Tree,0.011030698640232393,60.91428571428572,increased
+790,Reconsideration Recertification or Redetermination for Public Assistance Benefits,0.0007948500851307609,65.28571428571429,increased
+791,COVID-19 Resources for Businesses,0.0043197569127641985,71.6,increased
+792,HIV or STD Testing Information and Resources,2.1545028109188413e-05,78.0,increased
+793,Cancel Recycling & Refuse Service Request,3.686375088725946e-09,81.97142857142858,increased
+794,COVID-19 Governor Hogan Executive Orders for Maryland,0.04911602235201743,90.0,increased
+795,COVID-19 Ride On Temporary Free Bus Service and Boarding Changes,0.04707179849176677,98.8,increased
+796,"COVID-19 Restaurant, Bars, Theater, Gyms and other Businesses Licensed by Public Health Services License and Regulatory office",0.0004578804951110961,103.5,increased
+797,MANNA Food Center Referral,0.0098575812630021,114.80000000000001,increased
+798,Permit Status,0.007127956140239014,115.98571428571438,increased
+799,COVID-19 Food Access Call Center,0.0016909390221906458,121.0,increased
+800,35 Gallon Cart Delivery,6.939246695026919e-06,124.04285714285714,increased
+801,Missed Collection,4.7195327599843324e-08,125.88571428571427,increased
+802,Contact Income Supports Case Manager Silver Spring,0.0015056819991046118,134.34285714285713,increased
+803,Electronic Benefits Transfer (EBT) Card Information for Public Assistance Benefits,0.0006255361871406834,141.64285714285714,increased
+804,65 Gallon Cart Delivery,3.343632670712469e-08,141.85714285714286,increased
+805,COVID-19 Health Care Eligibility Units or County Safety Net Programs,0.0001402944338695674,148.8,increased
+806,"Unemployment Information through the Maryland State Department of Labor, Licensing and Regulation",0.002250918875602376,150.31428571428572,increased
+807,"Status of Tree Prune, Stump or Removal",3.0698589426912494e-05,159.34285714285713,increased
+808,Contact Income Supports Case Manager Rockville,0.012388896313062867,184.3,increased
+809,COVID-19 Testing for Coronavirus COVID-19,0.019630776465716624,187.9,increased
+810,eServices (ePermit and ePlans),2.014574980277722e-05,202.0,increased
+811,COVID-19 Testing for Coronavirus,0.0218368337109338,221.9,increased
+812,COVID-19 Coronavirus General Information,0.006709399032649606,231.5,increased
+813,"How to Apply for Public Assistance Programs, and Obtain and Application: Medicaid or Medical Assistance, Food Stamps, Cash Assistance Including Temporary  Disability Assistance and Temporary Cash Assistance",0.03610506761276727,256.3,increased
+814,"How to Apply for Public Assistance Programs: Medicaid or Medical Assistance, Food Stamps, Cash Assistance Including Temporary  Disability Assistance and Temporary Cash Assistance",0.041771101758048775,260.48571428571427,increased
+815,Unacceptable for Collection - Recycling & Refuse Services,0.00028066939018417825,319.6,increased
+816,Same Day,2.21103384552833e-08,332.7142857142857,increased
+817,State of Maryland Customer Call Center for Department of Human Services,0.001790834930675183,333.35714285714283,increased
+818,Contact Income Supports Case Manager Germantown,0.00014359301808728082,339.24285714285713,increased
+819,Apply for office of Home Energy Programs or check Status of New Application or Recertification,0.0037523283816651974,367.8285714285714,increased
+820,Field Check,3.500406538317089e-06,389.7857142857143,increased
+821,COVID-19 Ride On Bus Service Reductions,0.017303911088966385,399.6,increased
+822,Cart Repair,9.826108688246469e-07,452.3285714285714,increased
+823,Transfer Station Questions,0.04713515320162557,478.1714285714286,increased
+824,"COVID-19 Closures, Service Modifications and Cancellations in Montgomery County",0.0005327852195891981,491.0,increased
+825,Status of Income Support Benefits Case - New Application or Recertification,9.109320508262807e-06,548.7571428571429,increased
+826,22 Gallon Bin Pick-up,1.338288488442245e-07,656.1142857142856,increased
+827,Scrap Metal Pick-Up Request,0.0008070869030858903,930.1285714285714,increased
+828,Bulk Trash Pick-Up Request,9.257405480725349e-06,1149.6857142857143,increased
+829,COVID-19 Rental Relief Program HHS,0.0004432261107919504,1217.9,increased
+830,22 Gallon Bin Delivery,6.305227675096868e-07,2029.4285714285716,increased
